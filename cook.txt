@@ -2,3 +2,5 @@ tea
 coffee
 milk
 juice
+beans
+pizza
